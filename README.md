@@ -1,4 +1,4 @@
-# Intro To Express.js
+# Using EJS Templates in Express
 
 ## Objectives
 
@@ -7,6 +7,8 @@
 3. Load your first Express application
 4. Build an express route.
 5. Send a response to an HTTP request using Express
+
+_A video lecture covering this content is below the README_
 
 ## Javascript, Meet `HTTP` with Node
 
@@ -120,6 +122,12 @@ Instead of simply calling `resp.write()`, express provides higher level response
 Finally, we tell the `app` to listen to HTTP requests on port 3000.
 
 With that, we've begun building web applications with Javascript, Node, and Express.
+
+## Video Lecture
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FldgdcaYFXE?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://youtu.be/FldgdcaYFXE">Intro to Express</a></p>
+
+[Slides](https://docs.google.com/presentation/d/1cqqONyI0s3dnwzKmK34MMvQmh31mQrZ0mj7Pw_c-PBg/edit#slide=id.g287cb3bd88_0_12)
 
 ## Resources 
 
