@@ -8,7 +8,7 @@
 4. Build an express route.
 5. Send a response to an HTTP request using Express
 
-_A video lecture covering this content is below the README_
+_A [video lecture](#video-lecture) covering this content is below the README_
 
 ## Javascript, Meet `HTTP` with Node
 
