@@ -10,6 +10,8 @@
 
 _A [video lecture](#video-lecture) covering this content is below the README_
 
+**To play with these examples, you have to `git clone git@github.com:learn-co-curriculum/intro-to-express-js.git` into the Learn IDE or your environment. Then, `cd intro-to-express-js` to work in the project folder. Run `npm install` too.**
+
 ## Javascript, Meet `HTTP` with Node
 
 Node introduced a module in the framework called `http`. This low-level module provides a way to turn a Javascript application into a web application. Instead of running a program and it exiting after the procedure terminates, a program that leverages `http` can create a server, an application that will stay on, listening for HTTP requests and providing http responses.
